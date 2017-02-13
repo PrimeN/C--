@@ -1,6 +1,5 @@
-Winter 2016.
-OOP244 Assignment
-Aid Management Application (AMA)
+# Aid Management Application (AMA)
+### OOP244 - Final Assignment - Winter 2016
 
 
 When disaster hits an area, the most important thing is to be able provide the people affected with what they need as quickly and as efficiently possible.
