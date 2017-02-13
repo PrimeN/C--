@@ -14,9 +14,9 @@ To accomplish this task you need to create several classes to encapsulate the pr
 
 **CLASSES TO BE DEVELOPED**
 
-**- Date **
+** Date **
 A class to be used to hold the expiry date of the perishable items.
-**- ErrorMessage **	
+** ErrorMessage **	
 A class to keep track of the errors occurring during data entry and user interaction.
 **- Streamable	**
 This interface (a class with “only” pure virtual functions) enforces the classes that inherit from it to be streamable. Any class derived from “Streamable” can read from or write to the console, or can be saved to or loaded from a text file.   
