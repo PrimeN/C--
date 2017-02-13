@@ -12,7 +12,7 @@ The types of goods needed to be shipped in this situation are divided into two c
 
 To accomplish this task you need to create several classes to encapsulate the problem and provide a solution for this application.
 
-CLASSES TO BE DEVELOPED
+**CLASSES TO BE DEVELOPED**
 
 - Date	
 A class to be used to hold the expiry date of the perishable items.
